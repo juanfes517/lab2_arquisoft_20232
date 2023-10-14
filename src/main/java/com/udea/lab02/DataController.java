@@ -1,4 +1,4 @@
-package com.udea.consulta;
+package com.udea.lab02;
 
 import java.util.Locale;
 

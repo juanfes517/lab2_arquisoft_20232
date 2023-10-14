@@ -1,13 +1,13 @@
-package com.udea.consulta;
+package com.udea.lab02;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ConsultaApplication {
+public class Lab02Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ConsultaApplication.class, args);
+		SpringApplication.run(Lab02Application.class, args);
 	}
 
 }
